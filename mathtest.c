@@ -13,7 +13,7 @@ int main(void) {
 
   srand(time(NULL));
   int count = 0; //맞힌 개수 카운트
-  for (int i = 1; i <= 5; i++) {
+  for (int i = 1; i <= 7; i++) {
     int num1 = getRandomNumber(i);
     int num2 = getRandomNumber(i);
     // printf("%d x %d = ", num1, num2);
