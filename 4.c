@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 int main(void) {
-  int a = 2; // coefficient of x²
-  int b = 4; // coefficient of x
-  int c = 3; // constant term
+  int a = 2; 
+  int b = 4; 
+  int c = 3;
   int x;
   int y;
 
